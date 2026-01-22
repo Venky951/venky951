@@ -1,10 +1,18 @@
-## Hi there 👋
+# Hi, I'm Venkatesh 👋
+
+Frontend & Web Development student passionate about building responsive web applications.
+
+## Tech Stack
+HTML, CSS, JavaScript, React, Tailwind, Node.js, Express
+
+## Projects
+- Amazon Clone (Node + Frontend)
+- Spotify Web App Clone (React + API)
+- Portfolio Website
+
+Currently looking for Web Development / Frontend Intern roles.
 
 <!--
-**Venky951/venky951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
