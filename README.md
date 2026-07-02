@@ -1,3 +1,5 @@
+# Hi there! I'm Venkatesh Maloth 👋
+
 # 💫 About Me:
 🔭 I’m currently focused on building responsive, scalable full-stack web applications and refining my expertise in modern JavaScript frameworks.<br><br>👯 I’m looking to collaborate on open-source web development projects, UI/UX improvements, or backend integration tasks.<br><br>🤝 I’m looking for help with advanced backend architecture and optimizing database performance for my full-stack projects.<br><br>🌱 I’m currently deepening my knowledge in advanced React.js patterns and Node.js backend scaling.<br><br>💬 Ask me about Frontend Architecture, React.js state management, building pixel-perfect UI components, or bridging the gap between hardware and software.<br><br>⚡ Fun fact: I am an Electronics and Communication Engineering student at NIT Srinagar who loves turning complex hardware concepts into clean, functional code.<br><br>🚀 Projects<br>Campus_HelpDesk: A full-stack platform designed for campus management.<br><br>Amazon-Clone: A frontend implementation of a major e-commerce platform focusing on UI responsiveness.<br><br>PORTFOLIO: My personal developer portfolio showcasing my growth and technical skills
 
@@ -13,4 +15,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Venky951&theme=aura&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Venky951&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🐍 My Contribution Snake
+![Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
